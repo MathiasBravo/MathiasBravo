@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MathiasBravo
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Powershell
+- 👀 Chat-GPT 5 coming soon
 
 
 <!---
